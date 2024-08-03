@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "locketvideo",
+  "private_key_id": "5bec81dd5e766a03333514d724100bc2e0598be0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQDiCDx5zRjtsf\nFnig5GPueVkf8KWB0uwPS27rrCla07KXfkd6XnwNoE31yUP3fT+jsOJXoe20vMyr\ng6JqPYJpxVMhU7eYjSMmMSOoa2ThdK96yYi8p4thQmt8gXI5XP2edVwaqeRyVTBy\ngpxuwBwVvbW3yDb4K7ppqGbmlnSGVbT8om1Jb2SiADVk7bP5SyG5S++cZLAT+WId\nkZ/q0hcegnirqjxei+2vBVynnQiG2Dy1F3YM0P82YFjKRmjIK5a6ViG0pi6ZJnlD\n8rO/hNW3rX2k+tYCdMqDrJwvl4c2eqU3bnt8ARMEFgjFwTMPKSGRt/x4xD/uDvKA\nSG5NR0PpAgMBAAECggEAB3P0xDkQAWMYWbUTXdLF+v1L17IQ1mVjjBS2r33mVAOb\nX9k9NEFS46YSGjOQhLrENIKZ88EFjouThV1czGjRqs+lGl+GXHz0fQzA6z/q8uHx\nhfjW4MiGXKs6xdCunSbF9bmHMslSjqnwkgQ4bbCMu6v6aM/6RXTuOOoNwvAxfRJf\nsBNO/DkCGKWgZtv9LUO9egtuoFcFMcBn6r3evJWNrXavjscIvvbtIWkpLp15KVBz\n3teXcRZUgaOIm7ZETdWcj+eTV5ZckLrG3Df4+74ctVpvlfbmLZC3muihk7bBVbuO\n3skTE63Xf4zV7vSpbGjq/O9mP+u+izYEWWhcfgx5hQKBgQDyxXB8gB9jgqW6GMhu\nZoHr/KBwyDYgT6r1q5sj64LjOd9C4hkXcvn8rJLTKjgTrCcmyum/ZmNe4Z+GC/AK\n4OXCQzpcfrcC/6Fc/S9LGNgbHim7ljJKF6qG2Cffs/qnifZwM6KzIn3epLluvYDv\nJQSsq5ubNxCvL/MEf6yNF6WFSwKBgQDbZGmei5gVlnXPY/KGm+HPOOr1dSuF1RHw\nqeO2gS+fvHg1Ol0JXlIRP/1JNuFT7YacXuovG0arRnbKnHAsGGy3L2Dp+iyCY51c\n8LWJwkn1SZsQWCddA4Ss5v6hnsxEMi4kQdkserUODh+hJJLzy6U7KF4dEaZbUNJf\nZg1Cr9Z/GwKBgQDdY8o570kwoTLq67DUZOy0PRQ+5YXen2hjUxROhHY/K0Z7ot6I\n8NQiZWob4dNztTma+c6COigCnbSxNG+6K++64T32naPduyr3NviK/mQNDsu2Arln\nsf9TqwlpyqKZaInxNlV4EMtCX2uvHmfXLiX+JRzpRiUT7aEriBbeMCNE0wKBgHrC\nmfL0C1pxAWTVeTxm9xhbseU89eiCC/LNLTTO3pYUAHNQQATg+Szb0F9qTPUIYJ0Y\n4xMOwSFPYWMH3CBgXly2LxVdPhCLqt75dasqwvV0hUbE/Omn8VJKQsqur3+tUHJL\nQjkIRE0kDADAFVZDaiZK9TZwzNQlykFFOkBJYc1nAoGBAOFNs1DFBeOHA0glHJlc\nrraXXQh6wunLYVY2JjTXZFWMJypLeH5bG8mja7FZ3ZAONTg3X6/ehDRAL8/M7IuK\nyLry9X8uTF9QYtVQd91h0gZIbPaxcsBL3fmN48sdN0C6RTmKtNA1TG0O+GifjlfP\n6yiFVZBpu7Y0vW8/ni36vG+H\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s4y7c@locketvideo.iam.gserviceaccount.com",
+  "client_id": "103462755248897411600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s4y7c%40locketvideo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
